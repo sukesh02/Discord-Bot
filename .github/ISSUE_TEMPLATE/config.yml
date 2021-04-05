@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Here is our repo,do check on it. 
+    url: https://github.com/DSC-SIST/Discord-Bot
+    about: For any Discussion, Query.
+  - name: Guidelines
+    url: https://github.com/DSC-SIST/Discord-Bot/blob/main/code-of-conduct.md
+    about: Our contribution guidelines (Please go through them).
+© 2021 GitHub, Inc.
